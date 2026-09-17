@@ -26,18 +26,6 @@ I am a passionate **Software Engineering Student** and full-stack developer base
 
 ---
 
-### 🏆 GitHub Trophies & Streak
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hizbullah-Habib&theme=radical&no-frame=true&row=1&column=3" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hizbullah-Habib&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
