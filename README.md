@@ -39,6 +39,7 @@ I am a passionate software engineering student and developer based in Islamabad,
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **[Executive Sales Dashboard](https://github.com/Hizbullah-Habib)** | Interactive Business Intelligence dashboard featuring KPI summary cards, geographical customer analysis, sales performance breakdowns, and product distribution charts. | Power BI, Data Analytics |
 | **[CodeAlpha E-Commerce Store](https://github.com/Hizbullah-Habib/CodeAlpha_EcommerceStore)** | Full-stack e-commerce store web application featuring robust backend routing and dynamic frontend. | Node.js, Express, MySQL, HTML/CSS, JS |
 | **[CodeAlpha Project Management Tool](https://github.com/Hizbullah-Habib/CodeAlpha_ProjectManagementTool)** | Collaborative project management app with user authentication, Kanban board task tracking, and inline comments. | Node.js, Express, React, JavaScript |
 | **[CodeAlpha Social Media App](https://github.com/Hizbullah-Habib/CodeAlpha_SocialMediaApp)** | Social media web application featuring user authentication, posts, real-time comments, and interactive feeds. | Full-Stack Web Tech |
